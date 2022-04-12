@@ -1,2 +1,2 @@
 # Portfolio
- My portfolio in web format
+ This is an ongoing project. 
